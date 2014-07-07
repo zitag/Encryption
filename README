@@ -1,1 +1,1 @@
-Encode a given script from a text file, entered by a user. Then decode a given file.
+Encode a given script from a text file, entered by a user. Then decode a given file. This example doesn't include compiled class files.
